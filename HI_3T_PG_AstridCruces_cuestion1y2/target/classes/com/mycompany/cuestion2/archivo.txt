@@ -1,0 +1,20 @@
+¿Cual es el primer dia de la semana?
+Lunes
+¿Cuantas asignaturas tenemos en primero?
+6
+¿Cuantas asignaturas nos da Carmelo?
+3
+¿Cuantas asignaturas nos da Amelia?
+2
+¿Cuantas horas de clase son al dia?
+6
+¿Cual es el nombre del ultimo mes?
+Diciembre
+¿Cuando se celebra San Valentin (dd-mm)?
+14-02
+¿Cuantos dias tiene Junio?
+30
+¿Cuanto es (3*6)+1?
+19
+¿Como se llama la profesora de FOL?
+Gema
